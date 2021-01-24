@@ -53,3 +53,4 @@ C:\Users\Josh\source\repos\BethanysPieShopMVC\BethanysPieShopMVC\bin\Debug\netco
 C:\Users\Josh\source\repos\BethanysPieShopMVC\BethanysPieShopMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Josh\source\repos\BethanysPieShopMVC\BethanysPieShopMVC\obj\Debug\netcoreapp3.1\BethanysPieShopMVC.csproj.CoreCompileInputs.cache
 C:\Users\Josh\source\repos\BethanysPieShopMVC\BethanysPieShopMVC\obj\Debug\netcoreapp3.1\BethanysPieShopMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Josh\source\repos\BethanysPieShopMVC\BethanysPieShopMVC\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
